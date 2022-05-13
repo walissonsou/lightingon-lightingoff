@@ -1,4 +1,4 @@
 # lightingon-lightingoff
-[[https://github.com/walissonsou/lightingon-lightingoff/blob/main/assets/Screenshot_3.png?raw=true]]
+![Screenshot](screen1.png)
+![Screenshot](screen2.png)
 
-[[https://github.com/walissonsou/lightingon-lightingoff/blob/main/assets/Screenshot_4.png?raw=true]]
