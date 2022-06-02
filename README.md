@@ -1,12 +1,11 @@
-# README
+# LIGHT ON - LIGHT OFF
 <p align="center"> Esse projeto com REACT NATIVE 👋 ⚛️ </p>
 
-<p align="center">
-<a href="sobre"> Sobre </a>.
-<a href="roadmap"> Roadmap </a>.
-<a href="tecnologias"> Tecnologias </a>.
-<a href="pre-requisitos"> Pré Requisitos </a>.
-</p>
+
+* [ 📌Sobre](#Sobre)
+* [👨‍💻Tecnologias](#Tecnologias)
+* [📋 Pré-requisitos](#Pré-requisitos)
+* [🎁 Grato ](#Grato)
 
 ---
 <br>
@@ -21,7 +20,17 @@
 - [X] Criar Descrição
 - [X] GIF's
 
+# Sobre 📌
+Projeto desenvolvido com o intuito de exercitar as habilidades aprendidas em react native. 🚧
 
+# Tecnologias
+React Native ⚛️
+
+# Pré-requisitos 📋
+Android Studio
+
+# Grato 🎁
+Obrigado por vir até aqui. Em breve terão mais projetos em react native.
 <h1 align="center">
   <img alt="Readme" title="Readme" src="./ReadmeGif.gif" />
 </h1>
